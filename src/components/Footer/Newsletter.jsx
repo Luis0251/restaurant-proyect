@@ -2,10 +2,10 @@ import React from 'react';
 
 import './Newsletter.css';
 
-const Newsletter = () => (
+export const Newsletter = () => (
   <div>
     Newsletter
   </div>
 );
 
-export default Newsletter;
+

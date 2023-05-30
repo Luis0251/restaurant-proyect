@@ -2,10 +2,10 @@ import React from 'react';
 
 import './FooterOverlay.css';
 
-const FooterOverlay = () => (
+export const FooterOverlay = () => (
   <div>
     FooterOverlay
   </div>
 );
 
-export default FooterOverlay;
+

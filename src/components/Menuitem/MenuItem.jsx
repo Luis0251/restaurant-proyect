@@ -2,10 +2,10 @@ import React from 'react';
 
 import './MenuItem.css';
 
-const MenuItem = () => (
+export const MenuItem = () => (
   <div>
     MenuItem
   </div>
 );
 
-export default MenuItem;
+

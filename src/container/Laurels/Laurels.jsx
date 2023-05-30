@@ -2,10 +2,10 @@ import React from 'react';
 
 import './Laurels.css';
 
-const Laurels = () => (
+export const Laurels = () => (
   <div>
     Laurels
   </div>
 );
 
-export default Laurels;
+

@@ -1,9 +1,9 @@
 import React from 'react';
 
-const FindUs = () => (
+export const FindUs = () => (
   <div>
     FindUs
   </div>
 );
 
-export default FindUs;
+

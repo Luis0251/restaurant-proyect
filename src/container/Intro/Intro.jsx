@@ -2,10 +2,10 @@ import React from 'react';
 
 import './Intro.css';
 
-const Intro = () => (
+export const Intro = () => (
   <div>
     Intro
   </div>
 );
 
-export default Intro;
+
